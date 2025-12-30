@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "50と4つの忘れ物",
+  "base_artist": "紺野純子",
+  "createdAt": "2025-12-30T01:14:40.648193Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "50と4つの忘れ物",
+      "artist": "紺野純子",
+      "has_synced": true,
+      "path": "select/01_50と4つの忘れ物_紺野純子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "50と4つの忘れ物",
+      "artist": "紺野純子(CV.河瀬茉希)",
+      "has_synced": true,
+      "path": "select/02_50と4つの忘れ物_紺野純子(CV.河瀬茉希).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "50と4つの忘れ物 (TV size)",
+      "artist": "紺野純子",
+      "has_synced": true,
+      "path": "select/03_50と4つの忘れ物_(TV_size)_紺野純子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "50と4つの忘れ物",
+      "artist": "紺野純子",
+      "has_synced": false,
+      "path": "select/pl_01_50と4つの忘れ物_紺野純子.txt"
+    }
+  ]
+}
